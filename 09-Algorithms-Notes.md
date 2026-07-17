@@ -332,8 +332,6 @@ Pseudocode is a human-readable way of writing an algorithm.
 
 It is **not** a programming language.
 
-It focuses on logic instead of syntax.
-
 ---
 
 # Basic Structure
